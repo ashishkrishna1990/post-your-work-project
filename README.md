@@ -1,11 +1,8 @@
->**Note**: Please **fork** this Udacity repository so you have a **remote** repository in **your** GitHub account. Then you can clone the remote repository to your local machine. Later, as a part of the project, you will push your changes to the remote repository in your GitHub account.
+# Bikeshare
 
+This code is a starter template for an interactive, command-line data analysis tool designed to explore US bikeshare data for Chicago, New York City, and Washington.
 
-# Project Title
-
-Describe what your project is about and what it does
-
-## Information about how to use your project
+## Information
 
 This could include:
 

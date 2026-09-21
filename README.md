@@ -4,12 +4,14 @@ This code is a starter template for an interactive, command-line data analysis t
 
 ## Information
 
-This could include:
+There are multiple functions which perform following tasks:
 
-- Step-by-step instructions for installing or setting up your project.
-- Any software dependencies that need to be installed.
-- Instructions and examples for how to use your project, including any helpful code snippets.
-- Common issues and troubleshooting tips
+- Interactive User Input (get_filters): Prompts the user to select a city, a specific month (or all months), and a day of the week (or all days) to define the scope of analysis.
+- Data Ingestion and Filtering (load_data): Reads the chosen city's .csv file into a Pandas DataFrame and filters the records based on the user's selected month and day.
+- Temporal Analysis (time_stats): Calculates and prints the most frequent travel times, including the most common month, day of the week, and starting hour.
+- Station Analysis (station_stats): Identifies the most frequently used start station, end station, and the most common start-to-end trip combination.
+- Trip Duration Metrics (trip_duration_stats): Computes aggregate metrics, specifically the total travel time across all trips and the mean trip duration.
+- User Demographics (user_stats): Breaks down user information by counts of user types (subscribers vs. customers), gender distributions, and birth year statistics (earliest, most recent, and most common).
 
 ## Contribution guidelines
 

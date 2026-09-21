@@ -15,12 +15,12 @@ There are multiple functions which perform following tasks:
 
 ## Contribution guidelines
 
-If you welcome contributions, provide guidelines on how others can contribute to your project.
+If you want to contribute to this project, please raise an issue.
 
 ## Credits
 
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Full credits to Udacity
 
 ## Date created
 
-Include the date you created this project and README file.
+21 Sep 2026
